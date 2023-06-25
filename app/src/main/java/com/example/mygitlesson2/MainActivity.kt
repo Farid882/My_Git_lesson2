@@ -1,11 +1,9 @@
 package com.example.mygitlesson2
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
-import androidx.annotation.ColorRes
+import androidx.appcompat.app.AppCompatActivity
 import com.example.mygitlesson2.databinding.ActivityMainBinding
-import com.google.android.material.color.ColorRoles
 
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
